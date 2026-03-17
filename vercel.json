@@ -1,11 +1,17 @@
 {
   "rewrites": [
-    { "source": "/api/compare", "destination": "/api/compare" }
+    {
+      "source": "/api/compare",
+      "destination": "/api/compare"
+    }
   ],
   "functions": {
     "api/compare.py": {
-      "runtime": "python3.9",
       "maxDuration": 60
     }
   }
 }
+
+
+
+
