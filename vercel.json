@@ -4,14 +4,5 @@
       "source": "/api/compare",
       "destination": "/api/compare"
     }
-  ],
-  "functions": {
-    "api/compare.py": {
-      "maxDuration": 60
-    }
-  }
+  ]
 }
-
-
-
-
